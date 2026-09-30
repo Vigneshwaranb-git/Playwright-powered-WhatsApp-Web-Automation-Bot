@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ammu",
+        "phone": "919025498789",
+        "message_sent": "Hello Ammu, this is a test message.",
+        "status": "Success",
+        "screenshot": "screenshots\\01_Ammu_919025498789.png",
+        "last_3_messages": [
+            "Hello Ammu, this is a test message.\n8:27 PM",
+            "Hello Ammu, this is a test message.\n8:35 PM",
+            "Hello Ammu, this is a test message.\n8:40 PM"
+        ],
+        "timestamp": "2026-09-30 20:40:31",
+        "error": ""
+    },
+    {
+        "name": "Sangeeth",
+        "phone": "919750123853",
+        "message_sent": "Hello Sangeeth, bro this is a test message from playwright script I am testing it now.",
+        "status": "Success",
+        "screenshot": "screenshots\\02_Sangeeth_919750123853.png",
+        "last_3_messages": [
+            "Hello Sangeeth, bro this is a test message from playwright script I am testing it now.\n8:27 PM",
+            "Hello Sangeeth, bro this is a test message from playwright script I am testing it now.\n8:35 PM",
+            "Hello Sangeeth, bro this is a test message from playwright script I am testing it now.\n8:40 PM"
+        ],
+        "timestamp": "2026-09-30 20:40:43",
+        "error": ""
+    },
+    {
+        "name": "Ruban",
+        "phone": "919788031053",
+        "message_sent": "Hello Ruban, boss this is a test message from playwright script I am testing it now.",
+        "status": "Success",
+        "screenshot": "screenshots\\03_Ruban_919788031053.png",
+        "last_3_messages": [
+            "Hello Ruban, boss this is a test message from playwright script I am testing it now.\n8:27 PM",
+            "Ohhh\n8:28 PM",
+            "Hello Ruban, boss this is a test message from playwright script I am testing it now.\n8:41 PM"
+        ],
+        "timestamp": "2026-09-30 20:40:54",
+        "error": ""
+    }
+]
